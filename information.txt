@@ -4,3 +4,4 @@ clone is used for working area.
 add is used for staging area.
 commit is used for local repo.
 push is used for remote repo.
+do not commit.
