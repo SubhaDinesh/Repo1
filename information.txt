@@ -1,1 +1,2 @@
 Welcome to my GIT world.
+Reset and Revert having slight difference in there concepts.
