@@ -1,2 +1,6 @@
 Welcome to my GIT world.
 Reset and Revert having slight difference in there concepts.
+clone is used for working area.
+add is used for staging area.
+commit is used for local repo.
+push is used for remote repo.
